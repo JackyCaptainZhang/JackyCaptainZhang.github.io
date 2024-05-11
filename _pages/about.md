@@ -17,10 +17,10 @@ I combine deep technical skills with a creative approach to solve challenging pr
 
 My project portfolio includes improving a smart gimbal for the disabilities, developing an online coding platform, designing health-monitoring smart wearables, and leading the construction of a quadcopter drone and its system.
 
-# For more contact info
+## For more contact information
 
-_Wechat_: jackyy_zjc
+- _Wechat_ : jackyy_zjc
 
-_Tel/WhatsApp_: +44 (0)7754621754
+- _Tel/WhatsApp_ : +44 (0)7754621754
 
-(I seldom answer the phone call because of too many frauds lol)
+_(I seldom answer the phone call because of too many frauds lol)_
