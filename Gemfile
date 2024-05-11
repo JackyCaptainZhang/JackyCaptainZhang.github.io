@@ -23,6 +23,9 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
+  gem "jekyll-livereload"
+  gem 'csv'
+  gem 'faraday-retry'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
