@@ -12,7 +12,7 @@ title: "Mr"
 title_separator: "-"
 name: &name "Junchuan Zhang Jacky"
 description: &description "personal description"
-url: https://https://jacky-info.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://jacky-info.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: ""
 
