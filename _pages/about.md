@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Jacky"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome to the central website of Jacky!
+# Welcome to the central website of Jacky!
 
 I am currently the 2024 graduate software engineer at JLR(Jaguar Land Rover).
 
@@ -17,8 +17,10 @@ I combine deep technical skills with a creative approach to solve challenging pr
 
 My project portfolio includes improving a smart gimbal for the disabilities, developing an online coding platform, designing health-monitoring smart wearables, and leading the construction of a quadcopter drone and its system.
 
-## For more info
+# For more contact info
 
-Ins: jackyzhang444
-Wechat: jackyy_zjc
-Tel/WhatsApp: +44 (0)7754621754 (I seldom answer the phone call because of too many frauds lol)
+_Wechat_: jackyy_zjc
+
+_Tel/WhatsApp_: +44 (0)7754621754
+
+(I seldom answer the phone call because of too many frauds lol)

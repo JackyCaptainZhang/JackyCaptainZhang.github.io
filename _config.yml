@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-UK"
-title: "Mr"
+title: "Mr Jacky Zhang"
 title_separator: "-"
 name: &name "Junchuan Zhang Jacky"
 description: &description "personal description"
@@ -52,9 +52,9 @@ author:
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: # Username
+  instagram: "jackyzhang444"
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "junchuan-zhang-jacky-474aa722a"
   mastodon: # URL
   medium: # URL
   pinterest: # Username
