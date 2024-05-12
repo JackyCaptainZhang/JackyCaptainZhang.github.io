@@ -22,9 +22,8 @@ repository: ""
 author:
   # Biographic information
   avatar: "profile.jpg"
-  name: "Junchuan Zhang Jacky"
-  pronouns: "He/His"
-  bio: "Graduates Software Engineer at JLR | MSc in Rehabilitation Engineering and Assistive Technology, UCL | BSc in Computer Science and Electronic Engineering, University of Liverpool."
+  name: "Junchuan Zhang | Jacky"
+  pronouns: "* *He/His*"
   location: "UK"
   employer: "JLR"
   uri: # URL
@@ -35,6 +34,10 @@ author:
   googlescholar: # Link url
   impactstory: # URL
   researchgate: # URL
+  bio: |
+    * *Graduates Software Engineer at JLR*
+    * *MSc in REAT, UCL*
+    * *BSc in CSEE, University of Liverpool.*
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site

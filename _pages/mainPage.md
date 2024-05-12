@@ -2,9 +2,9 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+# redirect_from:
+#   - /main/
+#   - /mainPage.html
 ---
 
 # Welcome to the central website of Jacky!
@@ -16,11 +16,3 @@ Experienced Software Engineer with an MSc in Rehabilitation Engineering and Assi
 I combine deep technical skills with a creative approach to solve challenging problems and develop advanced technological solutions. Passionate about innovation in technology, I am eager to contribute to projects that push the boundaries of engineering and improve user outcomes.
 
 My project portfolio includes improving a smart gimbal for the disabilities, developing an online coding platform, designing health-monitoring smart wearables, and leading the construction of a quadcopter drone and its system.
-
-## For more contact information
-
-- _Wechat_ : jackyy_zjc
-
-- _Tel/WhatsApp_ : +44 (0)7754621754
-
-_(I seldom answer the phone call because of too many frauds lol)_

@@ -28,5 +28,6 @@
 
 - Add files in folder "\_talk" "\_teaching" "\_posts" "\_portfolio" to upload markdown or HTML files to each item page in navigation bar.
 - !!File name of the file must start with the date as shown in example files!!
-- To update CV, go to "\_pages/cv.md"
-- "\_pages" folder stores the page settings(main page(about.md),404 page) for each page item in navigation bar.
+- To update about me (cv), go to "\_pages/aboutMe.md"
+- To update contact me (cv), go to "\_pages/contactMe.md"
+- "\_pages" folder stores the page settings(main page(mainPage.md),404 page) for each page item in navigation bar.
