@@ -9,11 +9,6 @@ redirect_from:
 
 # Junchuan Zhang (Jacky)
 
-- **Mobile**: +44 0775 4621 754
-- **E-mail**: junchuanzhang.work@gmail.com
-- **Address**: Room 307, Scape Wembley, Fulton Road, London, HA9 0TF
-- **GitHub**: [JackyCaptainZhang](https://github.com/JackyCaptainZhang?tab=repositories)
-
 ## Education Background
 
 ### University College London

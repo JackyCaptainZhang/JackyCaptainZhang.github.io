@@ -7,12 +7,16 @@ redirect_from:
   - /resume
 ---
 
-## Wechat : jackyy_zjc
+## **E-mail**: junchuanzhang.work@gmail.com
 
-## Tel/WhatsApp : +44 (0)775 4621 754
+## **Wechat** : jackyy_zjc
+
+## **Tel/WhatsApp** : +44 (0)775 4621 754
 
 ## [Github](https://github.com/JackyCaptainZhang?tab=repositories)
 
 ## [Instagram](https://www.instagram.com/jackyzhang444/)
 
-## [Linkedin](https://www.linkedin.com/in/junchuan-zhang-jacky-474aa722a/)
+## [LinkedIn](https://www.linkedin.com/in/junchuan-zhang-jacky-474aa722a/)
+
+## **Address**: Room 307, Scape Wembley, Fulton Road, London, HA9 0TF

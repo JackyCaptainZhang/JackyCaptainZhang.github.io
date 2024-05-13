@@ -2,9 +2,6 @@
 permalink: /
 title: ""
 author_profile: true
-# redirect_from:
-#   - /main/
-#   - /mainPage.html
 ---
 
 # Welcome to the central website of Jacky!
