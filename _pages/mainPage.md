@@ -6,7 +6,7 @@ author_profile: true
 
 # Welcome to the central website of Jacky!
 
-I am currently the 2024 graduate software engineer at JLR(Jaguar Land Rover).
+I am currently the 2024 graduate software engineer at JLR (Jaguar Land Rover).
 
 Experienced Software Engineer with an MSc in Rehabilitation Engineering and Assistive Technologies from University College London and a BSc in Computer Science and Electronic Engineering from the University of Liverpool.
 
