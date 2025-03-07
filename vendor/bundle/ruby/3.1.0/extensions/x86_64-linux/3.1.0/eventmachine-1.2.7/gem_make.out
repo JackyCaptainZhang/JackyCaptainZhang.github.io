@@ -1,0 +1,16 @@
+current directory: /home/jackyzhang/projects_wsl/JackyCaptainZhang.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/jackyzhang/.rvm/rubies/ruby-3.1.4/bin/ruby -I /home/jackyzhang/.rvm/rubies/ruby-3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/jackyzhang/projects_wsl/JackyCaptainZhang.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250307-25136-hrhm21 sitelibdir\=./.gem.20250307-25136-hrhm21 clean
+
+current directory: /home/jackyzhang/projects_wsl/JackyCaptainZhang.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250307-25136-hrhm21 sitelibdir\=./.gem.20250307-25136-hrhm21
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/jackyzhang/projects_wsl/JackyCaptainZhang.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250307-25136-hrhm21 sitelibdir\=./.gem.20250307-25136-hrhm21 install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250307-25136-hrhm21

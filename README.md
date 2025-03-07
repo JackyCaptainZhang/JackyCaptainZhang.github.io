@@ -2,19 +2,12 @@
 
 ### Initialization
 
-1. Clone from template(https://github.com/academicpages/academicpages.github.io)
-2. Fork to your github and set the name as username.github.io and visibility public
+See(https://github.com/academicpages/academicpages.github.io)
 
-### Install environment
-
-3. brew install ruby node
-4. echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
-5. gem install bundler
-6. bundle install
 
 ### Run the server
 
-7. bundle exec jekyll serve --livereload --livereload-port 4004 (any port you like)
+bundle exec jekyll serve --livereload --livereload-port 4004 --port 4000 --host 127.0.0.1
 
 ## tutorial
 
