@@ -9,6 +9,11 @@ redirect_from:
 
 # Junchuan Zhang (Jacky)
 
+- [Education Background](#education-background)
+- [Related Work Experience](#related-work-experience)
+- [Projects and Leadership Activities](#projects-and-leadership-activities)
+- [Skills and Capabilities](#skills-and-capabilities)
+
 ## Education Background
 
 ### University College London
@@ -37,7 +42,7 @@ redirect_from:
 - **Roles**:
   - Graduate Software Engineer
   - C++ Vehicle Software/Service Implementation
-  - Software Testing
+  - Software Testing (GTest, Behave)
 
 ### Alumni Max International Education Consultant, Suzhou, China
 - **Duration**: 2022.01 -- 2023.01 (Intern)
@@ -53,7 +58,7 @@ redirect_from:
 - **Duration**: 2025.04 -- now
 - **Details**: 
   - A comprehensive Enterprise Workflow Management System built with React 19.1.0 and Node.js
-  - Being used by England 150-year-old company
+  - Being used by a Scotland company
   - Cross-departmental collaboration with real-time progress tracking
   - Automated workflow progression with MongoDB backend
   - Role-based access control and JWT authentication
@@ -77,7 +82,7 @@ redirect_from:
 - **Duration**: 2025.02 -- 2025.06
 - **Details**: 
   - A mobile OCR and AI-powered product scanning system using Flutter
-  - Was used by England 150-year-old company
+  - Was used by a Scotland company
   - Google ML Kit Text Recognition with Chinese script support
   - AI-powered text extraction and structuring
   - Dual cloud storage integration (WebDAV/Azure)
@@ -149,14 +154,14 @@ redirect_from:
 ## Skills and Capabilities
 - **Languages**: Fluent in English (TOEFL 99/120, IELTS 7.0) and native Chinese Mandarin
 - **Technical Skills**:
-  - **Frontend Development**: React 19.1.0, Vue3, TypeScript, HTML/CSS/JavaScript, Material Design 3
-  - **Mobile Development**: Flutter 3.0+, Dart, Cross-platform development (iOS/Android)
+  - **Frontend Development**: React, Vue3, TypeScript, HTML/CSS/JavaScript
   - **Backend Development**: Node.js, Express, FastAPI, Python, Java, Spring Boot
-  - **Database**: MongoDB, Firebase Firestore, SQL, Hive NoSQL
-  - **AI & ML**: OpenAI API, Anthropic Claude, Google Gemini, Baidu Qianfan, Zhipu AI, OCR (Google ML Kit)
-  - **Cloud Services**: Azure Blob Storage, WebDAV, Docker, GitHub Pages, Vercel
-  - **Programming Languages**: C#/C++, Java/JavaScript, Python, SQL, MATLAB, Dart
-  - **Tools & Platforms**: Linux system, Git, Postman, Unity, Arduino, PCB design
-  - **Testing**: Software unit and integration testing, API testing
+  - **Mobile Development**: Flutter/Java/Kotlin (Android), Swift (IOS)
+  - **Database**: MongoDB, Firebase, SQL, Hive
+  - **AI & ML**: OpenAI API, Anthropic Claude, OCR (Google ML Kit)
+  - **Cloud Services**: Vercel, AWS, Ali Cloud
+  - **Programming Languages**: C#/C++, Java/Kotlin, JavaScript, Python, SQL, MATLAB, Dart, Swift, Dart
+  - **Tools & Platforms**: Linux, Git, CMake, Conan, Postman, Docker, Unity Studio, Android Studio, VS Code, Arduino Studio, PCB design
+  - **Testing**: Software unit and integration testing, API testing (GTest, RESTAPI, Behave)
 - **Other Skills**:
   - Proficient in guitar, video editing (Davinci, Premiere), and audio mixing (Pro Tools, Cubase, Reaper)
